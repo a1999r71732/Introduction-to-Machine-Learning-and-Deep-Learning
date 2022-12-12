@@ -24,3 +24,7 @@
 ### Imbalance Data
 [Oversampling and Undersampling](https://github.com/a1999r71732/Introduction-to-Machine-Learning-and-Deep-Learning/blob/main/IM_data_sampling.ipynb)  
 [performance metrix](https://github.com/a1999r71732/Introduction-to-Machine-Learning-and-Deep-Learning/blob/main/Performance_metrics.ipynb)
+
+## Midterm
+PPT: [Binary Classification](https://docs.google.com/presentation/d/1QhE4OPszSMMSeKrLUJ0_IeoeXsfrqlsA/edit?usp=sharing&ouid=114770411251691420716&rtpof=true&sd=true)  
+my code: [mid_r11323015.ipynb](https://github.com/a1999r71732/Introduction-to-Machine-Learning-and-Deep-Learning/blob/main/mid_r11323015.ipynb)
